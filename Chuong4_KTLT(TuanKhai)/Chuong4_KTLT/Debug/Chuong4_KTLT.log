@@ -1,0 +1,13 @@
+﻿Build started 8/12/2024 12:18:11 AM.
+     1>Project "C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong4_KTLT\Chuong4_KTLT(TuanKhai)\Chuong4_KTLT\Chuong4_KTLT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bai1_Cau2.cpp
+         Bai1_Cau2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong4_KTLT\Chuong4_KTLT(TuanKhai)\Debug\Chuong4_KTLT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong4_KTLT\Chuong4_KTLT(TuanKhai)\Debug\Chuong4_KTLT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong4_KTLT\Chuong4_KTLT(TuanKhai)\Debug\Chuong4_KTLT.lib" /MACHINE:X86 Debug\Bai1_Cau2.obj
+         Chuong4_KTLT.vcxproj -> C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong4_KTLT\Chuong4_KTLT(TuanKhai)\Debug\Chuong4_KTLT.exe
+     1>Done Building Project "C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong4_KTLT\Chuong4_KTLT(TuanKhai)\Chuong4_KTLT\Chuong4_KTLT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46
